@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="cat1_name">Cute Cat</string>
+    <string name="cat2_name">Cry Cat1</string>
+    <string name="cat3_name">Ddabong Cat</string>
+
+    <string name="cat1_Artist">This Photo is cute cat</string>
+    <string name="cat2_Artist">This Photo is cry cat</string>
+    <string name="cat3_Artist">This Photo is ddabong cat</string>
+</resources>
